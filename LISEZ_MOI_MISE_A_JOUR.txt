@@ -1,0 +1,1 @@
+Remplacez index.html et service-worker.js dans votre dépôt GitHub, puis validez avec Commit changes. Le cache V5 force la mise à jour de l'application.
